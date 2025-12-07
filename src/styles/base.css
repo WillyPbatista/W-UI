@@ -1,0 +1,18 @@
+
+:root {
+  --w-primary: #3b82f6;
+  --w-secondary: #64748b;
+  --w-success: #10b981;
+  --w-warning: #f59e0b;
+  --w-error: #ef4444;
+
+  --w-radius: 6px;
+  --w-font: 'Inter', sans-serif;
+}
+
+
+body {
+  font-family: var(--w-font);
+  margin: 0;
+  padding: 0;
+}
