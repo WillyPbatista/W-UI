@@ -1,5 +1,22 @@
-# Vue 3 + TypeScript + Vite
+# w-ui
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**w-ui** is a lightweight and customizable UI component library for **Vue 3**, built completely with **TypeScript** and designed for scalability, clarity, and modern development workflows.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+This library includes a global plugin for auto-registering components, design tokens, and a clean foundation for building a full UI system.
+
+---
+
+## 🚀 Features
+
+- ⚡ **Vue 3 + Vite + TypeScript**
+- 📦 **Automatic Global Component Registration**
+- 🎨 **Theme-ready via CSS Variables**
+- 🧩 **Modular Component Structure**
+- ♿ **Accessible Component Patterns**
+- 🔧 **Fully customizable**
+- 📐 **Production-ready architecture**
+
+---
+
+## 📁 Project Structure
+
