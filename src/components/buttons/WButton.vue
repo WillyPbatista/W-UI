@@ -21,6 +21,10 @@
 <script setup lang="ts">
 import { defineProps, defineEmits } from 'vue'
 
+defineOptions({
+  name: "WButton"
+});
+
 const props = defineProps({
   color: { type: String, default: 'primary' },
   size: { type: String, default: 'md' },
